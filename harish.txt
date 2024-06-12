@@ -1,1 +1,1 @@
-this is first test without commit message
+this is first test without commit message for diff test
